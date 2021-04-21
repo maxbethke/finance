@@ -13,4 +13,4 @@ In the following I want to gather ideas for future development.
 ## Requirements
 
 ## Resources
-D3/d3-sankey : Use to generate a sankey diagram to visualize cashflow
+https://github.com/d3/d3-sankey : Use to generate a sankey diagram to visualize cashflow
