@@ -12,5 +12,19 @@ In the following I want to gather ideas for future development.
 
 ## Requirements
 
+* User can create categories in a tree structure
+  * categories can have infinite children
+* User can match keywords to categories
+* User can import a .CSV file with transactions
+  * lines can be excluded
+  * columns can be macthed to datafields
+    * this configuration can be saved and reused, as its not gonna sta the same for each bank
+  * trancactions get matched to categories based on keywords
+* A report can be generated based on a variable timeframe
+  * the report shows all categories that had movement in that timeframe
+  * it shows the sum of the movements
+  * it shows a total sum
+* a visualization of the cashflow can be generated for a variable timeframe (sankey diagram)
+
 ## Resources
 https://github.com/d3/d3-sankey : Use to generate a sankey diagram to visualize cashflow
