@@ -27,4 +27,4 @@ In the following I want to gather ideas for future development.
 * a visualization of the cashflow can be generated for a variable timeframe (sankey diagram)
 
 ## Resources
-https://github.com/d3/d3-sankey : Use to generate a sankey diagram to visualize cashflow
+[d3/d3-sankey](https://github.com/d3/d3-sankey): Use to generate a sankey diagram to visualize cashflow
